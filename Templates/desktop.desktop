@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Name of application
+Exec=Command line in terminal to execute
+Icon=Icon file path
+Type=Application
+Categories=Terminal;
+Name[es_ES]=desktop.desktop
